@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "QUANER PERSONAL WEBSIDE"
+title: "榆欢小组官网"
 author_profile: true
 redirect_from: 
   - /about/
