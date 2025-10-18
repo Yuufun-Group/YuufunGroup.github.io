@@ -13,6 +13,7 @@ redirect_from:
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>A-2</title>
   <link rel="stylesheet" href="https://stackedit.cn/style.css" />
 </head>
 
@@ -56,7 +57,7 @@ redirect_from:
 <h2 id="榆欢小组的博客"><span class="prefix"></span><span class="content">榆欢小组的博客</span><span class="suffix"></span></h2>
 <p>感谢您能够看完以上的内容，如果您对我们小组的内容有兴趣，就请跳转到我们的博客吧：</p>
 <ul>
-<li>榆欢小组博客：<a href="https://github.com/Yuufun-Group/YuufunGroup.github.io/wiki</a></li>
+<li>榆欢小组博客：<a href="https://github.com/Yuufun-Group/YuufunGroup.github.io/wiki">Home · Yuufun-Group/YuufunGroup.github.io Wiki</a></li>
 </ul>
 <p>如果您对本网站和我组有什么意见的想法，请写电子邮件到下方这个邮箱：<br>
 <strong><a href="mailto:3936337931@qq.com">3936337931@qq.com</a></strong></p>
@@ -99,7 +100,7 @@ redirect_from:
 <h2 id="yuufun-group’s-blog"><span class="prefix"></span><span class="content">Yuufun Group’s Blog</span><span class="suffix"></span></h2>
 <p>Thank you for reading the above content. If you are interested in our group’s works, please visit our blog:</p>
 <ul>
-<li>Yuufun Group’s Blog: <a href="https://github.com/Yuufun-Group/YuufunGroup.github.io/wiki</a></li>
+<li>Yuufun Group’s Blog: <a href="https://github.com/Yuufun-Group/YuufunGroup.github.io/wiki">Home · Yuufun-Group/YuufunGroup.github.io Wiki</a></li>
 </ul>
 <p>If you have any suggestions or opinions about this website or our group, please send an email to:</p>
 <p><strong><a href="mailto:3936337931@qq.com">3936337931@qq.com</a></strong></p>
@@ -107,4 +108,3 @@ redirect_from:
 </body>
 
 </html>
-
