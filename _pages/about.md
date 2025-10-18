@@ -13,7 +13,6 @@ redirect_from:
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>A-2</title>
   <link rel="stylesheet" href="https://stackedit.cn/style.css" />
 </head>
 
