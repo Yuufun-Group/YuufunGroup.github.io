@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "cn-CN"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Quaner Personal Web"
+title                    : "榆欢小组 Yuufun Group"
 title_separator          : "-"
-name                     : &name "Quaner"
+name                     : &name "Yuufun"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
@@ -25,7 +25,7 @@ author:
   # Biographic information
 ﻿
   avatar           : "profile.png"
-  name             : "Quaner Personal Web"
+  name             : "Yuufun Group"
   pronouns         : # example: "she/her"  
   bio              : ""
   location         : "Ganton Guangdong China"
